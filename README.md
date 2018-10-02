@@ -70,6 +70,12 @@ By default, one transaction will be released every 5 seconds.
 ![](./img/system_structure.png)
 ![](./img/cheese_stack.png)
 
+## Protocol explanation
+[Protocol link](https://github.com/trantuananhvn93/Blockchain/blob/master/protocol.md)
+
+## Results & evaluation
+[Results link](https://github.com/trantuananhvn93/Blockchain/blob/master/auto-evaluation.md)
+
 ## Contributors
 
 * [Tuan-Anh TRAN](https://github.com/trantuananhvn93) 
